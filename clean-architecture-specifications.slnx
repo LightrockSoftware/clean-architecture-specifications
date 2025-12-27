@@ -1,1 +1,13 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="OrderProcesing.Domain/OrderProcessing.Domain.csproj" />
+    <Project Path="OrderProcesing.Infrastructure/OrderProcessing.Infrastructure.csproj" />
+    <Project Path="OrderProcessing.Application/OrderProcessing.Application.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="OrderProcessing.UnitTests/OrderProcessing.UnitTests.csproj" />
+  </Folder>
+</Solution>
